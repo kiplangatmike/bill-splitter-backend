@@ -53,12 +53,12 @@ Frontend : https://tripsplits.netlify.app/register
 - ### User
 **Endpoint:**      
 ```user/register```  
-**Request Boddy:**       
+**Request Body:**       
  ```
 {
-    "userFirstName":"aarhan",
-    "userLastName":"khan",
-    "userName":"bdab",
+    "userFirstName":"Mike",
+    "userLastName":"kiplangat",
+    "userName":"mike",
     "userPassword":"hello123",
     "userMatchingPassword":"hello123"
 }
@@ -83,7 +83,7 @@ Frontend : https://tripsplits.netlify.app/register
     "expGrp":
     {
         "id": 1,
-        "groupName": "Shimla",
+        "groupName": "Bazenga",
         "groupBudget": 10000,
         "groupType": "trip"
     }
@@ -98,7 +98,7 @@ Frontend : https://tripsplits.netlify.app/register
     "expPaidBy": 1,
     "expGrp": {
         "id": 1,
-        "groupName": "Shimla",
+        "groupName": "Bazenga",
         "groupBudget": 10000,
         "groupType": "trip"
     }

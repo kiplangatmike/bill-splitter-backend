@@ -1,7 +1,7 @@
-package com.aarhankhan.splitwise.config;
+package com.mike.splitwise.config;
 
-import com.aarhankhan.splitwise.filter.JWTFilter;
-import com.aarhankhan.splitwise.service.UserService;
+import com.mike.splitwise.filter.JWTFilter;
+import com.mike.splitwise.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
